@@ -60,7 +60,15 @@ smtp:
 #   name:               友链名称
 #   url:                指定的RSS地址
 specific_RSS:
-   - name: ""
-     url: ""
-  # - name: "無名小栈"
-  #   url: "https://blog.imsyy.top/rss.xml"
+   - name: "KEVIN'S BLOG"
+     url: "https://blog.kevinchu.top/atom.xml"
+   - name: "故事的程序猿"
+     url: "https://blog.lichenghao.cn/article/rss.xml"
+   - name: "变量人生"
+     url: "https://bianliangrensheng.cn/blog/rss.xml"
+   - name: "郝鸿涛"
+     url: "https://hongtaoh.com/cn/index.xml"
+   - name: "宇阳"
+     url: "https://liuyuyang.net/api/rss"
+   - name: "愧怍"
+     url: "https://kuizuo.me/blog/rss.xml"
